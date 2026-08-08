@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=privshell&label=Profile%20Views&color=3DDC84&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/privshell?label=Followers&style=flat&color=3DDC84" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/privshell?label=Followers&style=flat&color=3DDC84" alt="privshell"/>
 </p>
 
 ---
