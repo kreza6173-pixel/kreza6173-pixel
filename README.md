@@ -29,6 +29,5 @@ I poke at how Android apps actually behave once you're past the UI: permissions,
 
 - Email — **prlvshell@proton.me**
 - Telegram — **[@prlvshell](https://t.me/prlvshell)**
-- Discord — **@privshell**
 - Twitter/X — **[@prlvshell](https://twitter.com/prlvshell)**
 - Support — *(link coming soon)*
