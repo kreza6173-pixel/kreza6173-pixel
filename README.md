@@ -23,7 +23,6 @@ I poke at how Android apps actually behave once you're past the UI: permissions,
 
 ### projects
 
-*(added as they're ready — nothing pinned here yet on purpose, rather than placeholder links)*
 
 ### contact
 
