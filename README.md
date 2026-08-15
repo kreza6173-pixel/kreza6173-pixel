@@ -30,6 +30,5 @@ I poke at how Android apps actually behave once you're past the UI: permissions,
 [![Email](https://img.shields.io/badge/Email-prlvshell%40proton.me-0d0f13?style=flat-square&logo=protonmail&logoColor=e0a253&labelColor=0d0f13)](mailto:prlvshell@proton.me)
 [![Telegram](https://img.shields.io/badge/Telegram-%40prlvshell-0d0f13?style=flat-square&logo=telegram&logoColor=5cc4f5&labelColor=0d0f13)](https://t.me/prlvshell)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-%40prlvshell-0d0f13?style=flat-square&logo=x&logoColor=e8e8ea&labelColor=0d0f13)](https://twitter.com/prlvshell)
-![Discord](https://img.shields.io/badge/Discord-privshell-0d0f13?style=flat-square&logo=discord&logoColor=8b93f7&labelColor=0d0f13)
 
 Support — *(link coming soon)*
