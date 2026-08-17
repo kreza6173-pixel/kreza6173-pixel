@@ -30,4 +30,4 @@ I poke at how Android apps actually behave once you're past the UI: permissions,
 [![Telegram](https://img.shields.io/badge/Telegram-%40prlvshell-0d0f13?style=flat-square&logo=telegram&logoColor=5cc4f5&labelColor=0d0f13)](https://t.me/prlvshell)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-%40prlvshell-0d0f13?style=flat-square&logo=x&logoColor=e8e8ea&labelColor=0d0f13)](https://twitter.com/prlvshell)
 
-Support — *(link coming soon)*
+Support — *(TTeSCMMiCfi8hDJwmq4Vojw4a1WVp848nV)*
